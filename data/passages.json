@@ -1,0 +1,20 @@
+{
+  "easy": [
+    "The quick brown fox jumps over the lazy dog.",
+    "Simple minds discuss people, average minds discuss events, great minds discuss ideas.",
+    "Code is like humor. When you have to explain it, it's bad.",
+    "Practice makes perfect. Keep typing every single day to improve speed."
+  ],
+  "medium": [
+    "Programming isn't about what you know; it's about what you can figure out. Continuous learning is key in software development.",
+    "Simplicity is prerequisite for reliability. Always write code as if the person maintaining it is a violent psychopath.",
+    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "Design patterns are general reusable solutions to commonly occurring problems within a given context in software design."
+  ],
+  "hard": [
+    "Refactoring is a controlled technique for improving the design of an existing code base. Its essence is applying a series of small behavior-preserving transformations.",
+    "Concurrency is not parallelism. Concurrency is about dealing with lots of things at once. Parallelism is about doing lots of things at once.",
+    "Premature optimization is the root of all evil in programming. Measure twice, optimize once, and maintain clean software architecture.",
+    "Asynchronous I/O frameworks allow execution threads to serve other tasks while waiting for network sockets or disk operations."
+  ]
+}
